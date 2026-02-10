@@ -1,2 +1,2 @@
 Hello everyone
-Checking the git
+Checking
